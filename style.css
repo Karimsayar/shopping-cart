@@ -1,0 +1,42 @@
+/* style.css */
+h1 {
+    background: #4caf50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.total {
+    padding: 10px;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: #f0f0f0;
+}
+
+.cart {
+    border: 1px solid #4caf50;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.products {
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.title {
+    margin-left: 20px;
+    color: #4caf50;
+    font-weight: bold;
+}
